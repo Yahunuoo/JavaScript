@@ -17,4 +17,3 @@ console.log(max.join(', ')); // Join elements of max array with a comma and spac
 // console.log(combinedArray.join(' - ')); // Join elements of combinedArray with a hyphen and space
 
 
-

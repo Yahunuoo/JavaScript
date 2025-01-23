@@ -1,7 +1,6 @@
-# intro to arrays
+## intro to **arrays**
 
-# Arrays : 
-  ## 15 main methods that are commonly used : 
+  ### 15 main methods that are commonly used : 
 1. **push()** Adds an element to the end of an arra
 2. **pop()** Removes the last element from an array
 3. **shift()** Removes the first element from an array

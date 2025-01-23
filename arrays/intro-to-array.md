@@ -1,8 +1,8 @@
 ## intro to **arrays**
+
 ```js
 const arrayName = [1,2,3,4,5,6,7,8,9,10];
 let arrayName = [1,2,3,4,5,6,7,8,9,10];
-
 ```
   ### 15 main methods that are commonly used : 
 
@@ -25,5 +25,13 @@ let arrayName = [1,2,3,4,5,6,7,8,9,10];
 |15|reduce()|Applies a function against an accumulator and each element in the array (from left to right) to reduce it to a single value|
 
 
+## Syntax
 
-
+###### 1. push()
+```js
+// Creating an array
+let fruits = ["Apple", "Banana", "Orange"];
+// Adding elements to an array
+fruits.push("Mango"); // Adds a new element (Mango) to the end of the array
+console.log(fruits); // Output: ["Apple", "Banana", "Orange", "Mango"]
+```

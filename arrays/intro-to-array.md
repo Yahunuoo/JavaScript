@@ -2,9 +2,9 @@
 
 # Arrays : 
   ## 15 main methods that are commonly used : 
-1. push():          Adds an element to the end of an array
-2. pop():           Removes the last element from an array
-3. shift():         Removes the first element from an array
+1. **push()** Adds an element to the end of an arra
+2. **pop()** Removes the last element from an array
+3. **shift()** Removes the first element from an array
 4. unshift():       Adds an element to the beginning of an array
 5. splice():        Adds or removes elements at a specific position in an array
 6. slice():         Returns a shallow copy of a portion of an array
@@ -17,5 +17,4 @@
 13. sort():          Sorts the elements of an array in place and returns the array
 14. reverse():       Reverses the order of the elements in an array
 15. reduce():        Applies a function against an accumulator and each element in the array (from left to right) to reduce it to a single value
-
-         
+      

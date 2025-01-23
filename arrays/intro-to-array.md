@@ -31,7 +31,8 @@ let arrayName = [1,2,3,4,5,6,7,8,9,10];
 ```js
 // Adds an element to the end of an array
 let fruits = ["Apple", "Banana", "Orange"]; // Creating an array
-fruits.push("Mango"); // Adds a new element (Mango) to the end of the array
+fruits.push("Mango"); // way no 1
+let addfruit = fruits.push("Mango"); // way no 2
 console.log(fruits); // Output: ["Apple", "Banana", "Orange", "Mango"]
 ```
 ###### 2. pop() 

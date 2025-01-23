@@ -42,6 +42,5 @@ let fruits = ["Apple", "Banana", "Orange"];
 fruits.pop(); // way no 1 
 let lastFruit = fruits.pop(); // way no 2 
 console.log(fruits); // Output: ["apple", "banana"]
-console.log(lastFruit); // Output:  ["apple", "banana"]
 ```
 

@@ -1,5 +1,9 @@
 ## intro to **arrays**
+```js
+const arrayName = [1,2,3,4,5,6,7,8,9,10];
+let arrayName = [1,2,3,4,5,6,7,8,9,10];
 
+```
   ### 15 main methods that are commonly used : 
 1. **push()** Adds an element to the end of an arra
 2. **pop()** Removes the last element from an array

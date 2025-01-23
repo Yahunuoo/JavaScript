@@ -16,3 +16,17 @@ console.log(max.join(', ')); // Join elements of max array with a comma and spac
 // console.log(combinedArray); // النتيجة: [1, 2, 3, 4, 5, 6]
 // console.log(combinedArray.join(' - ')); // Join elements of combinedArray with a hyphen and space
 
+
+let arrayNames = [1,2,3,4,5,6,7,8,9,10];
+
+
+// Creating an array
+let fruits = ["Apple", "Banana", "Orange"];
+
+// Accessing elements in an array
+console.log(fruits[0]); // Output: Apple
+console.log(fruits[1]); // Output: Banana
+
+// Adding elements to an array
+fruits.push("Mango"); // Adds a new element (Mango) to the end of the array
+console.log(fruits); // Output: ["Apple", "Banana", "Orange", "Mango"]

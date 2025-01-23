@@ -29,17 +29,16 @@ let arrayName = [1,2,3,4,5,6,7,8,9,10];
 
 ###### 1. push()
 ```js
-// Creating an array
-let fruits = ["Apple", "Banana", "Orange"];
-// Adding elements to an array
+
+let fruits = ["Apple", "Banana", "Orange"]; // Creating an array
 fruits.push("Mango"); // Adds a new element (Mango) to the end of the array
 console.log(fruits); // Output: ["Apple", "Banana", "Orange", "Mango"]
 ```
 ###### 2. pop()
 ```js
 let fruits = ["Apple", "Banana", "Orange"];
-fruits.pop(); //Removes the last element from the 
-let lastFruit = fruits.pop();
+fruits.pop(); // way no 1 -- > Removes the last element from the array
+let lastFruit = fruits.pop(); // way no 2 -- > Removes the last element from the array
 console.log(fruits); // Output: ["apple", "banana"]
 
 ```

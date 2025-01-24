@@ -34,7 +34,8 @@ let arrayName = [1,2,3,4,5,6,7,8,9,10];
 let fruits = ["Apple", "Banana", "Orange"];
 fruits.push("Mango"); // way no 1
 let addfruit = fruits.push("Mango"); // way no 2
-console.log(fruits); // Output: ["Apple", "Banana", "Orange", "Mango"]
+console.log(fruits);
+// Output: ["Apple", "Banana", "Orange", "Mango"]
 ```
 ###### 2. pop() 
 ```js
@@ -43,6 +44,7 @@ console.log(fruits); // Output: ["Apple", "Banana", "Orange", "Mango"]
 let fruits = ["Apple", "Banana", "Orange"];
 fruits.pop(); // way no 1 
 let lastFruit = fruits.pop(); // way no 2 
-console.log(fruits); // Output: ["apple", "banana"]
+console.log(fruits);
+// Output: ["apple", "banana"]
 ```
 

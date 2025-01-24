@@ -41,10 +41,8 @@ console.log(fruits); // Output: ["Apple", "Banana", "Orange", "Mango"]
 // Removes the last element from the array
 
 let fruits = ["Apple", "Banana", "Orange"];
-
-fruits.pop(); // way no 1 
-let lastFruit = fruits.pop(); // way no 2 
-
-console.log(fruits); // Output: ["apple", "banana"]
+fruits.pop();                              // way no 1 
+let lastFruit = fruits.pop();             // way no 2 
+console.log(fruits);                     // Output: ["apple", "banana"]
 ```
 

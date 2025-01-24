@@ -11,7 +11,7 @@ let arrayName =   ["Apple", "Banana", "Orange"];
 |1|push()|add one or more elements to the end of an|
 |2|pop()|removes the last element from an array and returns that element|
 |3|shift()| remove the first element from an array and return that removed element|
-|4|unshift()|Adds an element to the beginning of an array|
+|4|unshift()| used to add one or more elements to the beginning of an array and returns the new length of the array|
 |5|splice()|Adds or removes elements at a specific position in an array|
 |6|slice()|Returns a shallow copy of a portion of an array|
 |7|concat()|Joins two or more arrays|
@@ -60,4 +60,14 @@ console.log(firstFruit); // Output: "Apple"
 console.log(fruits); // Output: ["Banana", "Mango"]
 
 ```
+###### 4. unshift()
+```js
+// used to add one or more elements to the beginning of an array and returns the new length of the array
 
+let fruits = ["Banana", "Mango"];
+let newLength = fruits.unshift("Apple", "Orange");
+
+console.log(fruits); // Output: ["Apple", "Orange", "Banana", "Mango"]
+console.log(newLength); // Output: 4
+
+```

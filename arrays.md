@@ -51,6 +51,8 @@ console.log(fruits);                        |  |console.log(fruits);
 ```
 ###### 3. shift()
 ```js
+// Removes the first element from an array
+
 let fruits = ["Apple", "Banana", "Mango"];
 let firstFruit = fruits.shift();
 console.log(firstFruit); // Output: "Apple"

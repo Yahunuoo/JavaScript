@@ -31,10 +31,17 @@ let arrayName =   ["Apple", "Banana", "Orange"];
 ```js
 //Add an element to the end of an array
 
-// way no 1 or                                  // way no 2
-let fruits = ["Apple", "Banana", "Orange"]; |  |let fruits = ["Apple", "Banana", "Orange"];
-fruits.push("Mango");                       |Or|let addfruit = fruits.push("Mango"); 
-console.log(fruits);                        |  |console.log(fruits); 
+// way no 1 or                                  
+let fruits = ["Apple", "Banana", "Orange"];
+fruits.push("Mango");                       
+console.log(fruits);                        
+
+// or
+
+// way no 2
+let fruits = ["Apple", "Banana", "Orange"];
+|let addfruit = fruits.push("Mango");
+console.log(fruits); 
 
 // Output: ["Apple", "Banana", "Orange", "Mango"]
 ```

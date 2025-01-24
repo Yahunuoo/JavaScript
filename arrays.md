@@ -12,7 +12,7 @@ let arrayName =   ["Apple", "Banana", "Orange"];
 |2|pop()|removes the last element from an array and returns that element|
 |3|shift()| remove the first element from an array and return that removed element|
 |4|unshift()| add one or more elements to the beginning of an array and returns the new length of the array|
-|5|splice()|Adds or removes elements at a specific position in an array|
+|5|splice()|change the contents of an array by removing, replacing, or adding elements at a specific position in an array|
 |6|slice()|Returns a shallow copy of a portion of an array|
 |7|concat()|Joins two or more arrays|
 |8|indexOf()|Returns the first index at which a given element can be found in the array|
@@ -69,5 +69,39 @@ let newLength = fruits.unshift("Apple", "Orange");
 
 console.log(fruits); // Output: ["Apple", "Orange", "Banana", "Mango"]
 console.log(newLength); // Output: 4
+
+```
+###### 5. splice()
+```js
+array.splice(start, deleteCount, item1, ..., itemN)
+
+start: The index at which to start changing the array.
+
+deleteCount: The number of elements to remove from start.
+
+item1, ..., itemN: The elements to add to the array, starting at the index start
+
+Removing elements:
+
+let fruits = ["Apple", "Banana", "Mango", "Orange"];
+let removedFruits = fruits.splice(1, 2); // Start at index 1, remove 2 elements
+
+console.log(fruits); // Output: ["Apple", "Orange"]
+console.log(removedFruits); // Output: ["Banana", "Mango"]
+
+Adding elements:
+
+let fruits = ["Apple", "Banana", "Orange"];
+fruits.splice(2, 0, "Mango", "Pineapple"); // Start at index 2, delete 0 elements, add "Mango" and "Pineapple"
+
+console.log(fruits); // Output: ["Apple", "Banana", "Mango", "Pineapple", "Orange"]
+
+Replacing elements:
+
+let fruits = ["Apple", "Banana", "Mango", "Orange"];
+fruits.splice(2, 1, "Grapes"); // Start at index 2, remove 1 element, add "Grapes"
+
+console.log(fruits); // Output: ["Apple", "Banana", "Grapes", "Orange"]
+
 
 ```

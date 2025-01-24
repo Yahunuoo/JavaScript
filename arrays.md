@@ -49,4 +49,11 @@ console.log(fruits);                        |  |console.log(fruits);
 
 // Output: ["apple", "banana"]                                              
 ```
+###### 3. shift()
+```js
+let fruits = ["Apple", "Banana", "Mango"];
+let firstFruit = fruits.shift();
+console.log(firstFruit); // Output: "Apple"
+console.log(fruits); // Output: ["Banana", "Mango"]
+```
 

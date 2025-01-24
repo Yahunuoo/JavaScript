@@ -37,10 +37,13 @@ let addfruit = fruits.push("Mango");      // way no 2
 console.log(fruits);                     // Output: ["Apple", "Banana", "Orange", "Mango"]
 ```
 ###### 2. pop() 
-```js                                        
-let fruits = ["Apple", "Banana", "Orange"]; // Removes the last element from the array
-fruits.pop();                              // way no 1 or
-let lastFruit = fruits.pop();             // way no 2 
-console.log(fruits);                     // Output: ["apple", "banana"]
+```js
+// Removes the last element from the array
+
+// way no 1                                     // way no 2
+let fruits = ["Apple", "Banana", "Orange"]; |  |let fruits = ["Apple", "Banana", "Orange"];
+fruits.pop();                               |Or|let lastFruit = fruits.pop();                               
+console.log(fruits);                        |  |console.log(fruits);    
+// Output: ["apple", "banana"]                                                   
 ```
 

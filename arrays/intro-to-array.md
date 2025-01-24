@@ -44,6 +44,7 @@ console.log(fruits);                     // Output: ["Apple", "Banana", "Orange"
 let fruits = ["Apple", "Banana", "Orange"]; |  |let fruits = ["Apple", "Banana", "Orange"];
 fruits.pop();                               |Or|let lastFruit = fruits.pop();                               
 console.log(fruits);                        |  |console.log(fruits);    
+
 // Output: ["apple", "banana"]                                              
 ```
 

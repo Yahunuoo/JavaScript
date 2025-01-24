@@ -9,7 +9,7 @@ let arrayName =   ["Apple", "Banana", "Orange"];
 | No.|methods | used |
 |----|----|----|
 |1|push()|add one or more elements to the end of an|
-|2|pop()|Removes the last element from an array|
+|2|pop()|removes the last element from an array and returns that element|
 |3|shift()| Removes the first element from an array|
 |4|unshift()|Adds an element to the beginning of an array|
 |5|splice()|Adds or removes elements at a specific position in an array|
@@ -29,7 +29,7 @@ let arrayName =   ["Apple", "Banana", "Orange"];
 
 ###### 1. push()
 ```js
-// add one or more elements to the end of an
+// add one or more elements to the end
 
 let fruits = ["Apple", "Banana"];
 let newLength = fruits.push("Mango", "Orange");
@@ -40,14 +40,14 @@ console.log(newLength); // Output: 4
 ```
 ###### 2. pop() 
 ```js
-// Removes the last element from the array
+// removes the last element from an array and returns that element
 
-// way no 1                                     // way no 2
-let fruits = ["Apple", "Banana", "Orange"]; |  |let fruits = ["Apple", "Banana", "Orange"];
-fruits.pop();                               |Or|let lastFruit = fruits.pop();                               
-console.log(fruits);                        |  |console.log(fruits);    
+let fruits = ["Apple", "Banana", "Mango"];
+let lastFruit = fruits.pop();
 
-// Output: ["apple", "banana"]                                              
+console.log(lastFruit); // Output: "Mango"
+console.log(fruits); // Output: ["Apple", "Banana"]
+
 ```
 ###### 3. shift()
 ```js

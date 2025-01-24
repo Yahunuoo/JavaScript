@@ -31,10 +31,12 @@ let arrayName =   ["Apple", "Banana", "Orange"];
 ```js
 //Add an element to the end of an array
 
-let fruits = ["Apple", "Banana", "Orange"];
-fruits.push("Mango");                      // way no 1 or
-let addfruit = fruits.push("Mango");      // way no 2
-console.log(fruits);                     // Output: ["Apple", "Banana", "Orange", "Mango"]
+// way no 1 or                                  // way no 2
+let fruits = ["Apple", "Banana", "Orange"]; |  |let fruits = ["Apple", "Banana", "Orange"];
+fruits.push("Mango");                       |Or|let addfruit = fruits.push("Mango"); 
+console.log(fruits);                        |  |console.log(fruits); 
+
+// Output: ["Apple", "Banana", "Orange", "Mango"]
 ```
 ###### 2. pop() 
 ```js

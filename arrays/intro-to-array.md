@@ -28,8 +28,8 @@ let arrayName = [1,2,3,4,5,6,7,8,9,10];
 ## Syntax
 
 ###### 1. push()
+**Add an element to the end of an array **
 ```js
-// Adds an element to the end of an array
 let fruits = ["Apple", "Banana", "Orange"];
 fruits.push("Mango"); // way no 1
 let addfruit = fruits.push("Mango"); // way no 2

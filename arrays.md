@@ -10,7 +10,7 @@ let arrayName =   ["Apple", "Banana", "Orange"];
 |----|----|----|
 |1|push()|add one or more elements to the end of an|
 |2|pop()|removes the last element from an array and returns that element|
-|3|shift()| Removes the first element from an array|
+|3|shift()| remove the first element from an array and return that removed element|
 |4|unshift()|Adds an element to the beginning of an array|
 |5|splice()|Adds or removes elements at a specific position in an array|
 |6|slice()|Returns a shallow copy of a portion of an array|
@@ -51,11 +51,13 @@ console.log(fruits); // Output: ["Apple", "Banana"]
 ```
 ###### 3. shift()
 ```js
-// Removes the first element from an array
+// remove the first element from an array and return that removed element
 
 let fruits = ["Apple", "Banana", "Mango"];
 let firstFruit = fruits.shift();
+
 console.log(firstFruit); // Output: "Apple"
 console.log(fruits); // Output: ["Banana", "Mango"]
+
 ```
 

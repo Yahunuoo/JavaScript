@@ -8,7 +8,7 @@ let arrayName =   ["Apple", "Banana", "Orange"];
 
 | No.|methods | used |
 |----|----|----|
-|1| push()|Adds an element to the end of an array|
+|1|push()|add one or more elements to the end of an|
 |2|pop()|Removes the last element from an array|
 |3|shift()| Removes the first element from an array|
 |4|unshift()|Adds an element to the beginning of an array|
@@ -29,21 +29,14 @@ let arrayName =   ["Apple", "Banana", "Orange"];
 
 ###### 1. push()
 ```js
-//Add an element to the end of an array
+// add one or more elements to the end of an
 
-// way no 1 or                                  
-let fruits = ["Apple", "Banana", "Orange"];
-fruits.push("Mango");                       
-console.log(fruits);                        
+let fruits = ["Apple", "Banana"];
+let newLength = fruits.push("Mango", "Orange");
 
-// or
+console.log(fruits); // Output: ["Apple", "Banana", "Mango", "Orange"]
+console.log(newLength); // Output: 4
 
-// way no 2
-let fruits = ["Apple", "Banana", "Orange"];
-|let addfruit = fruits.push("Mango");
-console.log(fruits); 
-
-// Output: ["Apple", "Banana", "Orange", "Mango"]
 ```
 ###### 2. pop() 
 ```js

@@ -73,13 +73,15 @@ console.log(newLength); // Output: 4
 ```
 ###### 5. splice()
 ```js
+// change the contents of an array by removing, replacing, or adding elements at a specific position in an array
+
 array.splice(start, deleteCount, item1, ..., itemN)
 
-start: The index at which to start changing the array.
+    start: The index at which to start changing the array.
 
-deleteCount: The number of elements to remove from start.
+    deleteCount: The number of elements to remove from start.
 
-item1, ..., itemN: The elements to add to the array, starting at the index start
+    item1, ..., itemN: The elements to add to the array, starting at the index start
 
 Removing elements:
 

@@ -1,1 +1,1 @@
-## 
+## A  library used to build user interfaces (UI), Relies on components to reuse code, Used to create fast, interactive web applications

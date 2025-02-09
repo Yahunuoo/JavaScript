@@ -1,1 +1,1 @@
-## 
+## Framework built on React.js used to create web applications that are optimized for speed and performance. Supports Server-Side Rendering (SSR) and Static Site Generation (SSG).

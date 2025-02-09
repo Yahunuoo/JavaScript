@@ -1,11 +1,8 @@
 
 ###  توثيق لغة برمجة جافاسكريبت
+### JavaScript programming language documentation
 
 |  Lesson | Content |
 | ------ |:-----:|
 |[assets](./assets/README.md)|Original source files for assets (vector, PSD, PXD, etc)|
-|[the beginning](./the-beginning/README.md)|Start here, setup|
-
-|  الدروس | المحتوى |
-| ------ |:-----:|
-|بداية|(./assets/README.md)[assets]|
+|[the beginning](./The-Beginning/README.md)|Start here, setup|

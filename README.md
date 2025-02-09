@@ -9,6 +9,6 @@
 |[JavaScript](./JavaScript)|All about JavaScript|
 |[Express.js](./Express.js)|to create the server that handles the database and user requests & develop APIs|
 |[React.js](./React.js)|to create the front-end|
-|[Next.js](./Next.js)|built on (React) to improve performance Supports Server-Side Rendering (SSR) and Static Site Generation (SSG) |
+|[Next.js](./Next.js)| to improve performance Supports Server-Side Rendering (SSR) and Static Site Generation (SSG) |
 
  

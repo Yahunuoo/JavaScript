@@ -1,3 +1,2 @@
 
-### JavaScript programming language documentation
-### توثيق لفة برمجة جافاسكريبت
+### JavaScript programming language documentation | توثيق لفة برمجة جافاسكريبت

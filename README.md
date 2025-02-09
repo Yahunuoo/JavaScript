@@ -3,7 +3,6 @@
 ### JavaScript programming language documentation | توثيق لغة برمجة جافاسكريبت
 
 
-
 > |  Technology | Main Use | Runs On | Requires Node.js? |
 > |-------------|----------|---------|-------------------|
 > |React.js	|Building user interfaces |Browser (Front-end)|	❌ No|

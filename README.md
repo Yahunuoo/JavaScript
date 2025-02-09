@@ -4,6 +4,6 @@
 
 |  Lesson | Content |
 | ------ |:-----:|
-|[assets](./assets/README.md)|Original source files for assets (vector, PSD, PXD, etc)|
-|[the beginning](./The-Beginning/README.md)|Start here, setup|
+|[assets](./assets)|Original source files for assets (vector, PSD, PXD, etc)|
+|[the beginning](./The-Beginning)|Start here, setup|
 |[JavaScript](./JavaScript)|All about JavaScript|

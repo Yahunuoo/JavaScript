@@ -1,1 +1,5 @@
-# JavaScript programming language documentation
+
+ <div dir="auto">
+    # JavaScript programming language documentation
+    # توثيق
+  </div>

@@ -1,6 +1,6 @@
 
-###  توثيق لغة برمجة جافاسكريبت
-### JavaScript programming language documentation
+
+### JavaScript programming language documentation | توثيق لغة برمجة جافاسكريبت
 
 |  Lesson | Content |
 | ------ |:-----:|

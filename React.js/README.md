@@ -1,7 +1,6 @@
 ## A  library used to build user interfaces (UI), Relies on components to reuse code, Used to create fast, interactive web applications
 
- React.js
-📌 ما هو؟
+ React.js ما هو
 
 مكتبة (Library) من JavaScript تُستخدم لبناء واجهات المستخدم (UI).
 تعتمد على المكونات (Components) لإعادة استخدام الكود.

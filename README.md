@@ -9,7 +9,7 @@
 > |Next.js	|Optimizing React performance |	Browser + Server |	✅ Yes |
 > |Express.js |	Creating servers & APIs	|Server (Back-end)	|✅ Yes
 > 
----
+
 
 |  Lesson | Content |
 | ------ |:-----:|

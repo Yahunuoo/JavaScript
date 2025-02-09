@@ -10,7 +10,7 @@
 > |Express.js |	Creating servers & APIs	|Server (Back-end)	|✅ Yes
 > 
 
-`📌**React.js doesn't need Node.js because it runs directly in the browser.`
+`📌React.js doesn't need Node.js because it runs directly in the browser**.`
 
 
 |  Lesson | Content |

@@ -10,6 +10,9 @@
 - **[Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)** - For contextually changing the color of your VS Code workspace (We’ll use this when you’re working with decoupled front and back ends)
 - **[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)** - Linting, Debugging (multi-threaded, remote), Intellisense, Jupyter Notebooks, code formatting, refactoring, unit tests, snippets, and more.
 - **[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)** - A file and folder icon library that supports thousands of different file and folder types.
+- ### Windows extensions
+- **[WSL Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)** installed!
+
 
 
 ### Optional Themes

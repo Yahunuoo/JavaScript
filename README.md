@@ -3,12 +3,12 @@
 ### JavaScript programming language documentation | توثيق لغة برمجة جافاسكريبت
 
 
-> |  Technology | Main Use | Runs On | Requires Node.js? |
-> |-------------|----------|---------|-------------------|
-> |React.js	|Building user interfaces |Browser (Front-end)|	❌ No**|
-> |Next.js	|Optimizing React performance |	Browser + Server |	✅ Yes |
-> |Express.js |	Creating servers & APIs	|Server (Back-end)	|✅ Yes
-> 
+|  Technology | Main Use | Runs On | Requires Node.js? |
+|-------------|----------|---------|-------------------|
+|React.js	|Building user interfaces |Browser (Front-end)|	❌ No**|
+|Next.js	|Optimizing React performance |	Browser + Server |	✅ Yes |
+|Express.js |	Creating servers & APIs	|Server (Back-end)	|✅ Yes
+
 
 `📌 **React.js doesn't need Node.js because it runs directly in the browser.`
 

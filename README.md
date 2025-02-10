@@ -16,7 +16,7 @@
 |  Lesson | Content |
 | ------ |:-----:|
 |[Assets](./assets)|Original source files for assets (vector, PSD, PXD, etc)|
-|[Getting Started](./Getting-Started)|Start here, setup|
+|[Getting Started](https://github.com/Yahunuoo/preparing-workstation/tree/main/Windows-11)|Start here, setup|
 |[JavaScript](./JavaScript)|The JavaScript|
 |[Express.js](./Express.js)|to create the server that handles the database and user requests & develop APIs|
 |[React.js](./React.js)|to create the front-end|

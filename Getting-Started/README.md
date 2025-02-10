@@ -20,5 +20,5 @@
 
 |  operating system | details |
 | ------ |:-----:|
-|[Windows 10](./Getting-Started/Windows-10)|Configuring a development environment in Windows 10|
+|[Windows 10](./Windows-10)|Configuring a development environment in Windows 10|
 |[Windows 11](./Windows-11)|	Configuring a development environment in Windows 11|

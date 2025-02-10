@@ -15,8 +15,8 @@
 
 |  Lesson | Content |
 | ------ |:-----:|
-|[assets](./assets)|Original source files for assets (vector, PSD, PXD, etc)|
-|[the beginning](./Getting-Started)|Start here, setup|
+|[Assets](./assets)|Original source files for assets (vector, PSD, PXD, etc)|
+|[Getting Started](./Getting-Started)|Start here, setup|
 |[JavaScript](./JavaScript)|JavaScript|
 |[Express.js](./Express.js)|to create the server that handles the database and user requests & develop APIs|
 |[React.js](./React.js)|to create the front-end|

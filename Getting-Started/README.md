@@ -20,5 +20,5 @@
 
 |  operating system | details |
 | ------ |:-----:|
-|[Windows 10](./README.md/Windows-10)|Configuring a development environment in Windows 10|
-|[Windows 11](./README.md/Windows-11)|	Configuring a development environment in Windows 11|
+|[Windows 10](./Windows-10/README.md)|Configuring a development environment in Windows 10|
+|[Windows 11](./Windows-11/README.md)|	Configuring a development environment in Windows 11|

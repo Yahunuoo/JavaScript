@@ -21,7 +21,7 @@
 
 ## Resources
 
-* [Assets](./assets) Original source files for assets (vector, PSD, PXD, etc)
+* [Assets](./assets) Resources that help with programming
 
 ## JavaScript
 

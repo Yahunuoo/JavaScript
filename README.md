@@ -4,6 +4,18 @@
 
 ## Table of Contents
 
+1. [Introduction](#javascript-programming-language-documentation--توثيق-لغة-برمجة-جافاسكريبت)
+2. [JavaScript](#javascript---2025)
+3. [Table of Contents](#table-of-contents)
+4. [React.js](#reactjs)
+5. [Next.js](#nextjs)
+6. [Express.js](#expressjs)
+7. [Assets](#assets)
+8. [JavaScript](#javascript-1)
+9. [Express.js](#expressjs-1)
+10. [React.js](#reactjs-1)
+11. [Next.js](#nextjs-1)
+
 |  Technology | Main Use | Runs On | Requires Node.js? |
 |-------------|----------|---------|-------------------|
 |React.js	|Building user interfaces |Browser (Front-end)|	❌ No**|

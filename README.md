@@ -18,7 +18,7 @@
 
 ## JavaScript
 
-* [JavaScript] (./JavaScript)|The JavaScript
+* [JavaScript](./JavaScript) The JavaScript
 
 ## Libraries and frameworks
 

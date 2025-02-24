@@ -1,6 +1,6 @@
 # JavaScript programming language documentation | توثيق لغة برمجة جافاسكريبت
 
-## ![javascript - 2025](/Assets/images/JavaScript(75)-1.png)
+## ![javascript - 2025](/assets/images/JavaScript(75)-1.png)
 
 |  Technology | Main Use | Runs On | Requires Node.js? |
 |-------------|----------|---------|-------------------|

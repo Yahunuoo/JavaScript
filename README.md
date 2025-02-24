@@ -14,14 +14,14 @@
 
 ## Resources
 
-[Assets](./assets)|Original source files for assets (vector, PSD, PXD, etc)|
+[Assets](./assets)|Original source files for assets (vector, PSD, PXD, etc)
 
 ## JavaScript
 
-[JavaScript](./JavaScript)|The JavaScript|
+[JavaScript](./JavaScript)|The JavaScript
 
 ## Libraries and frameworks
 
-[Express.js](./Express.js)|to create the server that handles the database and user requests & develop APIs|
-[React.js](./React.js)|to create the front-end|
-[Next.js](./Next.js)|improve performance (React), Server-Side Rendering (SSR), Static Site Generation (SSG)|
+[Express.js](./Express.js)|to create the server that handles the database and user requests & develop APIs
+[React.js](./React.js)|to create the front-end
+[Next.js](./Next.js)|improve performance (React), Server-Side Rendering (SSR), Static Site Generation (SSG)

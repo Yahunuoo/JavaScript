@@ -1,7 +1,8 @@
+# JavaScript programming language documentation | توثيق لغة برمجة جافاسكريبت
 
+## ![javascript - 2025](/Assets/images/JavaScript(75)-1.png)
 
-### JavaScript programming language documentation | توثيق لغة برمجة جافاسكريبت
-
+## Table of Contents
 
 |  Technology | Main Use | Runs On | Requires Node.js? |
 |-------------|----------|---------|-------------------|
@@ -20,4 +21,3 @@
 |[Express.js](./Express.js)|to create the server that handles the database and user requests & develop APIs|
 |[React.js](./React.js)|to create the front-end|
 |[Next.js](./Next.js)|improve performance (React), Server-Side Rendering (SSR), Static Site Generation (SSG)|
-

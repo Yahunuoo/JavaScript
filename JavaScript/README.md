@@ -1,4 +1,5 @@
-# JavaScript programming language documentation | توثيق لغة برمجة جافاسكريبت
+# JavaScript programming language documentation 
+# توثيق لغة برمجة جافاسكريبت
 
 ## ![javascript - 2025](/assets/images/JavaScript(75)-2.png/)
 

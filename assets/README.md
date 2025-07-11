@@ -2,4 +2,4 @@
 
 ## Things that help with programming
 
-* [The Core template backend](./download/The-Core-template-backend.zip) The Core template backend standard
+* [Download The Core template backend](./download/The-Core-template-backend.zip)
